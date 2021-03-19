@@ -1,1 +1,1 @@
-"# panganan-suroboyoan.github.io" 
+Panganan Suroboyoan adalah Website Statis yang dibangun menggunakan HTML, CSS dan Javascript. Web ini bersifat open source siapun bisa merubah dan menggunakan nya. cocok dibuat untuk media pembelajaran dasar Pemrograman Web
